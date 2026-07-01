@@ -1,4 +1,4 @@
-# Hi, I'm Brandon Hernandez 👋
+# Hi, I'm Brandon Hernandez
 
 I'm a recent graduate from **Holy Cross**, where I founded the **Robotics Club** and developed a passion for building things that matter.
 
